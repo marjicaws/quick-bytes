@@ -1,10 +1,10 @@
-# secret-sauce
-A fake restaurant full crud Post, PUT, and Delete for reviews. GET for menu and reviews.
+# quick-bytes
+A recipe site for people look for quick easy meals that are cheap. This site will include full crud Post, PUT, and Delete for reviews. GET for menu and reviews.
 
 
 
 # ERD
-![Alt text]( https://res.cloudinary.com/marssantos/image/upload/v1646093637/Screen_Shot_2022-02-28_at_7.12.10_PM_rpxdeq.png)
+![Alt text]( https://res.cloudinary.com/marssantos/image/upload/v1646861081/Screen_Shot_2022-03-08_at_7.53.38_PM_axgvkf.png)
 
 # Front-End
 Javascript and React
