@@ -1,3 +1,8 @@
-from django.shortcuts import render
+from rest_framework import viewsets
+from quickbytes.serializers import ByteSerializer
+from quickbytes.models import Byte
 
-# Create your views here.
+
+class MovieViewSet(viewsets.ModelViewSet):
+    queryset = Byte.objects.all()
+    serializer_class = ByteSerializer
